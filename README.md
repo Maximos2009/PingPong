@@ -1,2 +1,2 @@
 # PingPong
-A ping pong game made with pygame
+A Ping Pong game made with pygame
